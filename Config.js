@@ -6,8 +6,8 @@ require('dotenv').config();
 global.ownernumber = [ process.env.OWNER_NUMBER || "0713145618"],
 global.ownername = process.env.OWNER_NAME || "Ongeri Brian",
 global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.socialm = "GitHub: Ongeri-brian"
+global.location = "Kenya"
 
 global.botname = process.env.BOTNAME || "𝐌𝐀𝐑𝐈𝐀-𝐌𝐃",//name of the bot
 
